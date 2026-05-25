@@ -1,0 +1,8 @@
+# Ignore ODS files except those in public/
+*.ods
+!public/**/*.ods
+.DS_Store
+.venv/
+__pycache__/
+venv/
+node_modules/

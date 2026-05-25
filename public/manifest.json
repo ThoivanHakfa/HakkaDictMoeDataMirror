@@ -1,0 +1,14 @@
+{
+  "latest_version": "20260525-2020",
+  "updated_at": "2026-05-25T20:20:50.331317",
+  "files": {
+    "csv": "public/20260525-2020/bunji/HakkaDictMoeData.csv",
+    "json": "public/20260525-2020/bunji/HakkaDictMoeData.json",
+    "ods_siyen": "public/20260525-2020/tangloo/HakkaDictMoeData_Siyen.ods",
+    "ods_nam_siyen": "public/20260525-2020/tangloo/HakkaDictMoeData_NamSiyen.ods",
+    "ods_hailuk": "public/20260525-2020/tangloo/HakkaDictMoeData_Hailuk.ods",
+    "ods_taiphu": "public/20260525-2020/tangloo/HakkaDictMoeData_Taiphu.ods",
+    "ods_ngiauphin": "public/20260525-2020/tangloo/HakkaDictMoeData_Ngiauphin.ods",
+    "ods_ciauon": "public/20260525-2020/tangloo/HakkaDictMoeData_Ciauon.ods"
+  }
+}

@@ -1,0 +1,3 @@
+[submodule "lib/KonvertToPFS"]
+	path = lib/KonvertToPFS
+	url = https://github.com/Phakfasu/KonvertToPFS.git
